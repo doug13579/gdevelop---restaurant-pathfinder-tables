@@ -306,12 +306,6 @@
               "name": "MaxSeats",
               "type": "number",
               "value": 2
-            },
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 1
             }
           ]
         },
@@ -330,14 +324,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 2
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -354,14 +341,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 4
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -480,14 +460,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 3
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -670,14 +643,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 2
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -694,14 +660,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 4
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -854,14 +813,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 3
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -1014,14 +966,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 1
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -1038,14 +983,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 2
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -1062,14 +1000,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 4
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -1222,14 +1153,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 3
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -1382,14 +1306,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 1
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -1406,14 +1323,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 2
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -1430,14 +1340,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 4
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -1590,14 +1493,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 3
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -1750,14 +1646,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 1
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -1774,14 +1663,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 2
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -1798,14 +1680,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 4
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -1958,14 +1833,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 3
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -2167,14 +2035,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 2
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -2203,12 +2064,6 @@
               "name": "MaxSeats",
               "type": "number",
               "value": 6
-            },
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 1
             }
           ]
         },
@@ -2341,12 +2196,6 @@
               "name": "MaxSeats",
               "type": "number",
               "value": 6
-            },
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 1
             }
           ]
         },
@@ -2535,14 +2384,7 @@
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 1
-            }
-          ]
+          "initialVariables": []
         },
         {
           "angle": 0,
@@ -2633,12 +2475,6 @@
               "name": "MaxSeats",
               "type": "number",
               "value": 2
-            },
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 1
             }
           ]
         },
@@ -2697,12 +2533,6 @@
               "name": "MaxSeats",
               "type": "number",
               "value": 2
-            },
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 1
             }
           ]
         }
